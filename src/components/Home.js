@@ -4,8 +4,8 @@ import Books from './Books';
 
 const Home = () => {
   const [books, setBooks] = useState([
-    { title: 'Half of the yellow sun', author: 'Chimamanda Adichie', key: 1 },
-    { title: 'There was a Country', author: 'Chinua Achebe', key: 2 },
+    { title: 'Half of the yellow sun', author: 'Chimamanda Adichie', id: 1 },
+    { title: 'There was a Country', author: 'Chinua Achebe', id: 2 },
   ]);
 
   const [title, setTitle] = useState('');
