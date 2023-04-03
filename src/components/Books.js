@@ -5,7 +5,7 @@ const Books = ({ books }) => (
     {books.map((book) => (
       <div className="book" key={book.id}>
         <strong>{book.title}</strong>
-        <p>
+        <p className="book-author">
           By
           {` ${book.author}`}
         </p>
