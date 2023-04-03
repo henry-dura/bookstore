@@ -17,6 +17,7 @@
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -25,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 BOOK STORE <a name="about-project"></a>
 
-**Math Magicians** is designed using single page application (SPA) model  and written in React. It  allows users make mathematical calculations and read random math related quotes.
+**Book Store** is designed using single page application (SPA) model  and written in React. It  allows users add books to the book store.
 
 
 
@@ -48,8 +49,8 @@ This project was built using React.
 
 ### Key Features <a name="key-features"></a>
 
-- **Calculator**
-- **Random math quote**
+- **Add Books**
+- **Navigate to different pages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,7 +58,7 @@ This project was built using React.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[View Live](https://herox-maths.onrender.com)
+[COMING SOON]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,8 +83,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-git clone https://github.com/henry-dura/math-magicians.git
-cd math-magicians
+git clone https://github.com/henry-dura/bookstore.git
+cd bookstore
 ```
 
 ### Install
@@ -117,6 +118,12 @@ npm start
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Future features -->
+
+## 🔭 Future Features <a name="future-features"></a>
+-  **Add more functionality to the bookstore**
+-  **Add Live demo link**
+
 
 <!-- CONTRIBUTING -->
 
@@ -124,7 +131,7 @@ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](hhttps://github.com/henry-dura/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/henry-dura/bookstore/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
