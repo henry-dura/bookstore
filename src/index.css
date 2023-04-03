@@ -36,30 +36,33 @@ nav {
   width: 50%;
   border-radius: 0.8rem;
   padding: 2rem;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
 }
-input{
+
+input {
   font-size: 2rem;
   margin-bottom: 2rem;
   width: 100%;
 }
-.book-author{
+
+.book-author {
   margin-top: 2rem;
   text-align: right;
 }
 
-
-.form-content{
+.form-content {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-button{
+
+button {
   background: green;
   padding: 1rem 2rem;
   color: white;
 }
-main{
+
+main {
   max-width: 1200px;
   margin: 40px auto;
 }
